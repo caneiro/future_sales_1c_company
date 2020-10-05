@@ -177,5 +177,6 @@ dependencies:
     - jinja2-time==0.2.0
     - poyo==0.5.0
     - tabulate==0.8.7
+    - xgboost==1.2.0
 prefix: /Users/rco/opt/anaconda3/envs/hse_comp_ds
 
